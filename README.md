@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">business-blog-card</h1>
+<h1 align="center">Testimonial</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/leaclf/testimonial-new">
+    <a href="https://github.com/leaclf/Testimonial">
       Solution
     </a>
     <span> | </span>
@@ -37,7 +37,7 @@
 
 ## Overview
 
-![Screenshot 2023-11-21 at 09-46-54 testimonial](https://github.com/leaclf/testimonial/assets/138538372/8b27df8b-2b89-4dbc-9b8e-f1c0b8b3b239)
+![Screenshot 2023-11-21 at 09-46-54 testimonial](https://github.com/leaclf/Testimonial/assets/138538372/38cdeb80-f172-485c-82c1-13efd8c7cd5a)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
